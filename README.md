@@ -16,4 +16,4 @@ The assessment followed industry-standard frameworks:
 All data, IP addresses, and credentials have been anonymized. This project is for educational and portfolio purposes only. Unauthorized use of these techniques against live systems without prior written consent is illegal.
 
 📝 Final Report
-You can view the full technical report here: Pentest Report Noor.pdf
+You can view the full technical report here: report/Penetration Test Report Noor.pdf
