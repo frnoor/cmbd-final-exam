@@ -9,7 +9,7 @@ This repository contains a sanitized penetration testing report and methodology 
 - **Outcome:** Full System Compromise (Root Access).
 
 ## 🛠️ Methodology
-The assessment followed industry-standard frameworks to ensure a structured and ethical approach:
+The assessment followed industry-standard frameworks to ensure a structured and ethical approach: 
 - **PTES** (Penetration Testing Execution Standard)
 - [cite_start]**OWASP** Testing Guide for service-level analysis [cite: 36]
 
